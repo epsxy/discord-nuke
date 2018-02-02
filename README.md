@@ -4,6 +4,9 @@ A small program to mass-delete your own messages on Discord.
 
 Not sure why I made this honestly.
 
+Currently it deletes every single message you've sent in every server you're currently in. If you just want to delete some
+messages, either wait until I add that capability or find something else.
+
 ## Usage
 
 ```bash
