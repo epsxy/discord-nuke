@@ -2,6 +2,8 @@
 
 A small program to mass-delete your own messages on Discord.
 
+Not sure why I made this honestly.
+
 ## Usage
 
 ```bash
@@ -14,3 +16,12 @@ discord-nuke -e <discord email> -p <discord password>
 
 - add DM conversation nuking
 - allow user to specify time periods to delete in
+- saving messages to a file before deleting them
+- allow user to select what servers and channels to delete messages from
+
+## Disclaimer
+
+I take no responsibility from what happens as a consequence of using this program. This program will, provided it doesn't get
+interrupted, delete every message you've sent in every server you're currently in. Be careful when using this program and make
+sure that you definitely want to delete __everything__ before you run it, as it doesn't prompt you for confirmation before
+starting.
